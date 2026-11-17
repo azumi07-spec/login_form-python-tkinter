@@ -21,7 +21,9 @@ The project includes the following features:
 ## Developer Information
 
 Full Name: AzumiPearl A. Benig
+
 Course and Year: BS Infomation Technology (Software Engineering) 3A
+
 Subject: Ct5
 
 ## Login Credentials
