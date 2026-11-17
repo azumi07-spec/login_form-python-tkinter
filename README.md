@@ -7,15 +7,24 @@ This project is a desktop login application built with Python and Tkinter. It op
 ## Features
 
 The project includes the following features:
-1. Username and password input 
+1. Username and password input
+   
     The form contains two input boxes where the user can enter their username and password. The password box hides the characters behind asterisks (*), so no one nearby can read them. Each box has a clear label above it, and the labels and boxes are aligned along the same edge to keep the layout organized.
-2. Login validation 
+   
+2. Login validation
+   
     When the user clicks the LOG IN button or presses the Enter key, the program reads both input boxes and compares them to the previously stored login information. Access is granted only if the username and password match exactly. The demo account's username is "admin", and the password is "12345".
-3. Successful login notification 
+   
+3. Successful login notification
+   
     If the details are correct, the title "LOGIN SUCCESSFULLY" and the text "Welcome Admin! will appear on the screen. This gives the user clear confirmation that they have signed in.
-4. Failed login notification 
+   
+4. Failed login notification
+   
     If the username or password is wrong, an error pop-up appears with the title "LOGIN FAILED!" and the text "Invalid Username or Password!". The user can then close the message and try again.
-5. Customized GUI design 
+   
+5. Customized GUI design
+   
     The entire interface uses a palette of mint, jade, moss, and deep green shades. The login form sits on a card with rounded corners and a shadow behind it, which gives it a raised look. The title and button use a bold, bubbly font; if the preferred font is not installed on the computer, a default font will be used instead.
 
 ## Developer Information
@@ -29,8 +38,14 @@ Subject: Ct5
 ## Login Credentials
 
 Username: admin
+
 Password: 12345
 
 ## Screenshot
+<img width="368" height="569" alt="successfull_login" src="https://github.com/user-attachments/assets/8a239954-1fb3-40e7-af54-43c299adfc7f" />
 
-See the uploaded screenshots in this repository.
+<img width="377" height="571" alt="login_form_screenshot" src="https://github.com/user-attachments/assets/85c616d3-c3f8-4121-9a22-b44256709825" />
+
+<img width="395" height="602" alt="failed_login" src="https://github.com/user-attachments/assets/b61e061e-8b21-48f1-b1f4-fdec1b869e46" />
+
+
